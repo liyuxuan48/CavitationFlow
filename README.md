@@ -1,0 +1,1 @@
+This is a personal repository aiming to build a tool to predict cavitation inception. It also contains my learning on the bubble size and motion dynamics. Hopefully I can finish this repository and publish my outcome somewhere.
